@@ -18,13 +18,13 @@ El presente proyecto "Challenge Amigo Secreto" forma parte del curso de formaci�
 
 ## Índice
 
-* [💡 Funcionalidades](https://github.com/RubiDiana/challenge-amigo-secreto/tree/main?tab=readme-ov-file#-funcionalidades)
-* [💻 Tecnologías](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-tecnolog%C3%ADas)
-* [🛠️ Instalación](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#%EF%B8%8F-instalaci%C3%B3n)
+* [💡 Funcionalidades](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#-funcionalidades)
+* [💻 Tecnologías](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#-tecnolog%C3%ADas)
+* [🛠️ Instalación](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#%EF%B8%8F-instalaci%C3%B3n)
 * [👩‍💻 Cómo Ejecutar el Proyecto](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#-c%C3%B3mo-ejecutar-el-proyecto)
-* [⚠️ Posibles Problemas y Soluciones](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#%EF%B8%8F-posibles-problemas-y-soluciones)
-* [🤝 Contribuciones](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-contribuciones)
-* [👤 Autor](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-autor)
+* [⚠️ Posibles Problemas y Soluciones](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#%EF%B8%8F-posibles-problemas-y-soluciones)
+* [🤝 Contribuciones](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#-contribuciones)
+* [👤 Autor](https://github.com/RubiDiana/challenge-amigo-secreto?tab=readme-ov-file#-autor)
 
 ## 💡 Funcionalidades
 
