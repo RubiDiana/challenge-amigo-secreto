@@ -1,13 +1,27 @@
-# Amigo Secreto (Challenge)
+<h1 align="center"> 🎁🤫 Amigo Secreto (Challenge)👥👀 </h1>
+<p align="center"><img src="https://github.com/user-attachments/assets/0f157cc9-86a9-4e33-b785-3ec03cebff4d" /></p>
 
 ¡Bienvenido a ___Amigo Secreto___! Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-El presente proyecto "Challenge Amigo Secreto" es realizado como parte del programa ONE (Oracle Next Education), organizado por Oracle y Alura Latam.
+El presente proyecto "Challenge Amigo Secreto" forma parte del curso de formación Principiante en Programación del Programa ONE (Oracle Next Education) de Oracle y Alura Latam.
 
-### 👉📱 Prueba la aplicación: 
+### 🚀 👉 Prueba la aplicación: [Amigo Secreto](https://rubidiana.github.io/challenge-amigo-secreto/)
+
+[[_TOC_]]
 
 ## Índice
-
+* [💡 Funcionalidades](#funcionalidades)
+* [💡 Funcionalidades](Funcionalidades)
+* [💻 Tecnologías](Tecnologías)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* 
+- [Subsección 1.1](#subsección-11
+*[](#Título-e-imagen-de-portada)
 - [💡 Funcionalidades](#funcionalidades)
 - [💻 Tecnologías](#tecnologías)
 - [🛠️ Instalación](#instalación)
@@ -19,7 +33,6 @@ El presente proyecto "Challenge Amigo Secreto" es realizado como parte del progr
 - **Agregar Amigos**: Permite agregar nombres a la lista de amigos. Los nombres no pueden repetirse.
 - **Visualizar Lista de Amigos**: Muestra la lista actual de amigos agregados.
 - **Sortear Amigo Secreto**: Sortea aleatoriamente un amigo secreto de la lista de amigos.
-
 
 ## 💻 Tecnologías
 
@@ -44,7 +57,7 @@ El presente proyecto "Challenge Amigo Secreto" es realizado como parte del progr
 
 ¡Ya está listo para usarse!
 
-## 🚀 Cómo Ejecutar el Proyecto
+## 👩‍💻 Cómo Ejecutar el Proyecto
 
 1. **Agregar amigos**: 
     - Escribe el nombre de un amigo en el campo de texto y presiona `Añadir`. 
@@ -56,20 +69,23 @@ El presente proyecto "Challenge Amigo Secreto" es realizado como parte del progr
 3. **Sortear un amigo secreto**: 
     - Haz clic en el botón `Sortear amigo` para que la aplicación seleccione aleatoriamente un amigo de la lista y lo muestre en pantalla.
 
+### Ejemplo:  
+  <p align="center"><img src="https://github.com/user-attachments/assets/3c96d469-ab83-4138-92de-dc886339cb08" /></p>
+
 ## ⚠️ Posibles Problemas y Soluciones
 
 1. **No puedo agregar un amigo.**
 
    **Solución**: Asegúrate de que el campo de texto no esté vacío o contenga solo espacios. Si el nombre ya está en la lista, también aparecerá un mensaje indicándolo.
 
-2. **El botón "Sortear" no funciona.**
+3. **El botón "Sortear" no funciona.**
 
    **Solución**: Asegúrate de que haya al menos un amigo agregado en la lista. Si la lista está vacía, el botón no podrá realizar el sorteo. Aparecerá un mensaje indicando que no hay amigos para sortear.
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! No dudes en abrir un issue si tienes alguna sugerencia para mejorar este proyecto.
 
-## 👩‍💻Autor
+## 👤 Autor
 - Github: [@RubiDiana](https://github.com/RubiDiana)
 
 ---
