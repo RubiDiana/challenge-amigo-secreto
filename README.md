@@ -1,32 +1,30 @@
 <h1 align="center"> 🎁🤫 Amigo Secreto (Challenge)👥👀 </h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/0f157cc9-86a9-4e33-b785-3ec03cebff4d" /></p>
 
+<p align="center">
+<a href="#status"><img src="https://img.shields.io/badge/status-completed-green"></a>
+<a href="#release-date"><img src="https://img.shields.io/badge/release_date-february-blue"></a>
+<a href="#javascript"><img src="https://img.shields.io/badge/javascript-yellow"></a>
+<a href="#css"><img src="https://img.shields.io/badge/css-purple"></a>
+<a href="#html"><img src="https://img.shields.io/badge/html-orange"></a>
+</a>
+</p>
+
 ¡Bienvenido a ___Amigo Secreto___! Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 El presente proyecto "Challenge Amigo Secreto" forma parte del curso de formación Principiante en Programación del Programa ONE (Oracle Next Education) de Oracle y Alura Latam.
 
 ### 🚀 👉 Prueba la aplicación: [Amigo Secreto](https://rubidiana.github.io/challenge-amigo-secreto/)
 
-[[_TOC_]]
-
 ## Índice
-* [💡 Funcionalidades](#funcionalidades)
-* [💡 Funcionalidades](Funcionalidades)
-* [💻 Tecnologías](Tecnologías)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* 
-- [Subsección 1.1](#subsección-11
-*[](#Título-e-imagen-de-portada)
-- [💡 Funcionalidades](#funcionalidades)
-- [💻 Tecnologías](#tecnologías)
-- [🛠️ Instalación](#instalación)
-- [🚀 Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [⚠️ Posibles Problemas y Soluciones](#posibles-problemas-y-soluciones)
+
+* [💡 Funcionalidades](https://github.com/RubiDiana/challenge-amigo-secreto/tree/main?tab=readme-ov-file#-funcionalidades)
+* [💻 Tecnologías](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-tecnolog%C3%ADas)
+* [🛠️ Instalación](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#%EF%B8%8F-instalaci%C3%B3n)
+* [👩‍💻 Cómo Ejecutar el Proyecto](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-c%C3%B3mo-ejecutar-el-proyecto)
+* [⚠️ Posibles Problemas y Soluciones](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#%EF%B8%8F-posibles-problemas-y-soluciones)
+* [🤝 Contribuciones](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-contribuciones)
+* [👤 Autor](https://github.com/RubiDiana/challenge-amigo-secreto/edit/main/README.md#-autor)
 
 ## 💡 Funcionalidades
 
