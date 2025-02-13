@@ -33,3 +33,13 @@ function actualizarLista (){
 }
 
 // 3. Función para sortear los amigos:
+function sortearAmigo(){
+    if(amigos.length === 0){ // Validar que haya amigos disponibles
+        alert("No hay amigos disponibles para sortear.");
+        return;
+    }
+    let indiceAleatorio = Math.floor(Math.random() * amigos.length); // Generar un índice aleatorio
+    let amigoSorteado = amigos[indiceAleatorio]; // Obtener el nombre sorteado
+
+    document.getElementById("resultado").innerHTML = `El amigo sortedo es: 🎉 ${amigoSorteado} 🎉`; // Mostrar el resultado
+}
